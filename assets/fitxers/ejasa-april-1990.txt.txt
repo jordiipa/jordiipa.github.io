@@ -1,0 +1,647 @@
+https://groups.google.com/g/sci.astro/c/6d7HAZuWhrE/m/nBtUjTwdKfgJ
+
+----------------------------------------------------------
+
+THE ELECTRONIC JOURNAL OF
+THE ASTRONOMICAL SOCIETY OF THE ATLANTIC
+
+Volume 1, Number 9 - April 1990
+
+###########################
+
+TABLE OF CONTENTS
+
+###########################
+
+* ASA Membership/Article Submission Information
+
+* Amateur Astronomy in Spain - Jordi Iparraguirre
+
+* The Cosmic Distance Scale - Eric Greene
+
+* Milton Updegraff, Astronomer - Darwin Christy
+
+###########################
+
+ASA MEMBERSHIP INFORMATION
+
+The Electronic Journal of the Astronomical Society of the
+Atlantic (EJASA) is published monthly by the Astronomical Society
+of the Atlantic, Inc. The ASA is a non-profit organization dedicated
+to the advancement of amateur and professional astronomy and space
+exploration, and to the social and educational needs of its members.
+
+Membership application is open to all with an interest in
+astronomy and space exploration. Members receive the ASA Journal
+(hardcopy sent through U.S. Mail), the Astronomical League's REFLECTOR
+magazine, and may additionally purchase discount subscriptions to
+SKY & TELESCOPE, ASTRONOMY, DEEP SKY, and TELESCOPE MAKING magazines.
+
+For information on membership, contact the Society at:
+
+Astronomical Society of the Atlantic (ASA)
+c/o Center for High Angular Resolution Astronomy (CHARA)
+Georgia State University (GSU)
+Atlanta, Georgia 30303 U.S.A.
+
+asa%ch...@gatech.edu or a...@chara.uucp
+
+ASA BBS: (404) 985-0408, 300/1200 Baud.
+
+or telephone the Society recording at (404) 264-0451 to leave
+your address and/or receive the latest Society news.
+
+ASA Officers and Council -
+
+President - Don Barry
+Vice President - Bill Bagnuolo
+Secretary - Ken Poshedly
+Treasurer - Alan Fleming
+Board of Advisors - Bill Hartkopf, Edward Albin, Jim Bitsko
+Council: Larry Klaes, Michael Wiggs, Max Mirot, Eric Greene,
+Patti Provost, Paul Pirillo, Becky Long, Jim Bitsko,
+Julian Crusselle, Toni Douglas
+
+ARTICLE SUBMISSIONS -
+
+Article submissions on astronomy and space exploration to
+the EJASA are most welcome. Please send your on-line articles
+in ASCII format to Larry Klaes, EJASA Editor, at the following
+net addresses or the above Society addresses:
+
+kl...@wrksys.dec.com, or ...!decwrl!wrksys.dec.com!klaes,
+or klaes%wrksy...@decwrl.dec.com, or kl...@wrksys.enet.dec.com,
+or klaes%wrksys.en...@uunet.uu.net
+
+You may also use the above net addresses for EJASA backissue
+requests, letters to the editor, and ASA membership information.
+
+Please be certain to include either a network or regular mail
+address where you can be reached, a telephone number, and a brief
+biographical sketch.
+
+DISCLAIMER -
+
+Submissions are welcome for consideration. Articles submitted,
+unless otherwise stated, become the property of the Astronomical
+Society of the Atlantic. Though the articles will not be used for
+profit, they are subject to editing, abridgment, and other changes.
+Copying or reprinting of the EJASA, in part or in whole, is encouraged,
+provided clear attribution is made to the Astronomical Society of the
+Atlantic, the Electronic Journal, and the author(s). This Journal is
+Copyright (c) 1990 by the Astronomical Society of the Atlantic.
+AMATEUR ASTRONOMY IN SPAIN
+
+by Jordi Iparraguirre
+
+For centuries Spain was not a major participant in the expanding
+fields of astronomy and astrophysics so prominent among some of its
+European neighbors. This situation began to change in the early 1970s
+when several European nations decided to build their best astronomical
+observatories in the Canary Islands off the coast of Morocco. This
+enterprise dramatically increased the number of Spanish astronomy
+students and research projects in the science, as Spanish astronomers
+receive a large portion of the scheduled observing time. As with so
+many other nations, the introduction of professional astronomy in
+Spain eventually led to the growth of many amateur organizations.
+
+The man considered most responsible for bringing amateur
+astronomy to fruition in Spain was Josep Comas i Sola (1868-1937).
+Comas i Sola was a Catalan astronomer and the director of the
+Observatori Fabra in Barcelona. He discovered eleven planetoids
+[1] and a periodic comet subsequently named after him. [2] This
+astronomer is said to have been the first to detect a "diffuse edge"
+around Titan, the largest moon of the planet Saturn. [3] This "edge"
+was caused by Titan's thick atmosphere, which was not officially
+confirmed until 1944 by the American astronomer Gerard P. Kuiper
+(1905-1973). [4] Comas i Sola is regarded by many Spanish amateurs
+as the foremost astronomy popularizer of their country.
+
+Josep Comas i Sola founded one of the first amateur astronomical
+associations in Spain in 1911 called SADEYA (Sociedad Astronomica de
+Espana y America - the Astronomical Society of Spain and [South]
+America). [5] At present the primary activity of this group is to
+produce a monthly star chart and ephemeras published in LA VANGUARDIA
+(The Vanguard), one of the most important newspapers in Spain.
+
+In 1948, members from SADEYA founded ASTER (Agrupacio Astronomica
+de Barcelona - the Astronomical Society of Barcelona; ASTER is the
+Greek word for "star"). ASTER has become one of the most active
+astronomy associations in Spain. They were one of the first non-
+professional teams to pick up the radio transmissions of the Soviet
+satellite SPUTNIK 1 as it orbited Earth in 1957. ASTER members also
+had the good fortune to be visited by the famous German rocket pioneer
+Hermann Oberth (1894-1989) and the Soviet scientist Leonid Sedov
+(Chief engineer on the SPUTNIK project) in October of 1957 at the
+International Astronomical Union (IAU) meeting held in Barcelona.
+
+Today, ASTER follows the solar observing program lead by SONNE,
+a West German association dedicated to observing the Sun (Sonne is
+the German word for Sun). We send our observations of variable stars
+to AFOEV (Associacion Francoise d'Observateurs d'Estels Variables -
+the French Association of Variable Star Observers) and AAVSO (American
+Association of Variable Star Observers). In the summer of 1989, ASTER
+members observed the major fading of the giant gas planet Jupiter's
+South Equatorial Belt [6]. Some of the main activities in ASTER are
+solar and planetary monitoring (Association of Lunar and Planetary
+Observers, ALPO), astrophotography (reprophotography and hypersensi-
+tized films), occultations, variable stars, and divulgation (popular-
+izing astronomy, teaching courses, and collaborating with the news
+media on events in the field).
+
+In 1960, a number of ASTER members founded Agrupacio Astronomica
+de Sabadell (Sabadell is a town near Barcelona). A. A. Sabadell has
+several delegations across Spain. Its prominent member is Josep
+Costas, who is known for his experience at observing the Sun (he has
+been studying Earth's star for fifty years) and telescope-making
+(Costas has made more than two thousand mirrors). A. A. Sabadell's
+main activities are divulgation, occultations (European Asteroidal
+Occultations Network, EAON) [7], and solar observation.
+
+GEA (Grup d'Estudis Astronomics, the Astronomical Studies Group)
+was created in 1983 when a group of people from ASTER and A. A.
+Sabadell decided to work at more professional levels. GEA is mainly
+composed of professional astronomers, astronomy undergraduate students
+and graduates, and highly skilled amateurs. GEA's director is Josep
+M. Gomez, who recently discovered that SAO 139174 is both an eclipsing
+binary star and one of the one hundred brightest known variable stars.
+GEA leads the Spanish wing of IAPPP (International Amateur Professional
+Photoelectric Photometry). GEA collaborates with IAPPP, EAON, and ALPO.
+Its principal observing site is in the Pyrenees Mountains. Each summer,
+ASTER and several other groups are given the opportunity to use the
+GEA's fifty-centimeter (twenty-inch) telescope, as well as their two
+forty-centimeter (sixteen-inch) and four twenty-centimeter (eight-inch)
+Celestron and Meade. These opportunities greatly help to improve the
+skills and knowledge of the groups.
+
+Gomez is considered by many to be the most important amateur-
+professional astronomer in Spain today. His main interests of
+study are the atmosphere of Jupiter, photometric photometry, and
+solar phenomena. GEA projects involve CCD (Charge-Coupled Device)
+imaging and software analysis in order to get high-resolution
+planetary images.
+
+Red Mira is a network of different associations that follow the
+same observing program on variable stars. Their observations are
+sent to AAVSO and AFOEV. There are a number of other astronomical
+groups in Spain, some of which you will find in the list near the end
+of this article. The oldest and most active associations are located
+in Catalonia.
+
+In 1976, ASTER organized the first national amateur meeting
+in Barcelona. Since then, these meetings have been organized by
+other associations in different cities every two years. In 1987,
+the meeting returned to Barcelona (organized by SADEYA) and was
+focused on honoring Josep Comas i Sola on the fiftieth anniversary
+of his death. The latest meeting, held in Madrid, joined amateurs
+and professionals from more than seventy astronomy groups all over
+Spain.
+
+There are two monthly astronomy magazines published in Spain:
+TRIBUNA DE ASTRONOMIA and ASTRONOMIA, ASTROFOTOGRAFIA Y ASTRONAUTICA.
+They often publish photographs and articles written by skilled
+amateurs.
+
+Since July of 1989, ASTER has begun to lead the e-mail commu-
+nications field in Spain. We recently got in touch with a team of
+young businessmen interested in this area, thinking that e-mail could
+be a useful tool for the group. Their system is called NEXUS. It has
+the same software as BIX. Though having been in operation for only
+one year now, NEXUS has given us the opportunity to moderate a forum
+of astronomical topics and have our own e-mail address. This public
+forum allows us to talk about astronomy to a wide variety of people
+in many different fields. ASTER has another private forum for
+associations and their members with which we share ephemeras data,
+answer questions about astronomy, present observing programs, and
+collect data. ASTER also posts alerts regarding such events as
+comet hunts and variable star reports.
+
+Our plan is to eventually join together as many Spanish amateur
+astronomy associations as possible and try to connect to other asso-
+ciations from around the globe. In fact, last summer ASTER wrote a
+letter to several other European amateur associations explaining our
+situation and future planning. Don Miles, editor for the Electronic
+Circular of the British Astronomical Association (BAA), answered us.
+He is connected to Microlink Gold. We have heard that some Italian
+amateurs are connected via FIDO. At present, people from SADEYA, GEA,
+and ASTER are looking to have our own e-mail node, as there are some
+problems with sending e-mail through NEXUS (We receive mail, but we
+cannot send it). We would also like to try packet radio.
+
+If you are interested in communicating with any Spanish amateur
+associations, the following is a list of some of the major groups
+with their regular mail and network address:
+
+SADEYA, Sociedad Astronomica de Espana y America
+Av. Diagonal, 377 2on
+08008 Barcelona
+sad...@nexus.nsi.es
+
+ASTER, Agrupacio Astronomica de Barcelona
+Passeig de Gracia, 71 atic
+08008 Barcelona
+as...@nexus.nsi.es
+
+Agrupacio Astronomica de Sabadell
+C/Font, 1 1er.
+08201 Sabadell (Barcelona)
+
+GEA (Grup d'Estudis Astronomics)
+Ap. Correus 9481
+08080 Barcelona
+g...@nexus.nsi.es (To be implemented soon)
+
+Sociedad Malaguena de Astronomia
+Ap. Correos 6072
+29080 Malaga
+jma...@nexus.nsi.es
+
+Associacio Valenciana d'Astronomia
+Apt. Correos 2069
+46080 Valencia
+fabr...@evalvx.decnet.cern.ch
+(Juan Fabregat was AVA President)
+
+Agrupacion Astronomica de Madrid
+Ap. Correos 1039
+28080 Madrid
+
+Aranzadi Zientzi Elkartea
+Plaza Ignacio Zuloaga (Museo)
+20003 Donosti (San Sebastian)
+
+Agrupacion Astronomica Palmera
+Ap. Correos 449
+38780 S.C. de la Palma
+
+Agrupacion Astronomica de Tenerife
+Ap. Correos 10644
+38080 S.C. de Tenerife
+
+I would like to thank EJASA Editor Larry Klaes for "translating"
+my original article into readable English and for his general advice.
+
+Footnotes:
+
+1 - Comas i Sola discovered planetoids 925, 945, and 956. He
+also rediscovered planetoids 629, 1102, 1117, 1136, 1188,
+1927AA (Sadeya), 1929WG, and 1929XA.
+
+2 - Periodic comet Comas Sola (1926f) was discovered on November
+4, 1926. The comet has an orbital period of 8.54 years.
+
+3 - This discovery was made in 1920 and reported in ASTRONOMISCHE
+NACHRICHTEN, Number 4290.
+
+4 - See the April, 1982 article "Titan" in SCIENTIFIC AMERICAN by
+Tobias Owen.
+
+5 - The Sociedad Flammarion association was founded in 1881 in
+Jaen, but dissolved soon after. ASTER has a telescope that
+is reputed to have been donated by a Sociedad Flammarion
+member which once belonged to the French astronomer Nicolas
+Camille Flammarion (1842-1925). Like Josep Comas i Sola,
+Flammarion was an astronomy popularizer.
+
+6 - IAU Circular 4815, July 19, 1989.
+
+7 - The European Asteroidal Occultations Network (EAON) can be
+contacted through Mr. Roland Boninsegna, Rue de Mariembourg,
+35 B 6381 Dourbes, Belgium.
+
+About the Author -
+
+Jordi Iparraguirre is a computer science student at "Universitat
+Autonoma de Barcelona" in Catalonia. Jordi has been the librarian of
+ASTER (Agrupacio Astronomica de Barcelona) since 1986. As an amateur
+astronomer, Jordi is encouraging e-mail communication among Spanish
+amateurs and moderates the public astronomy forum on NEXUS. He takes
+part in summer meetings organized by J. M. Gomez (GEA, IAPPP Spanish
+wing). Jordi's professional interests include space probes and
+unmanned intelligent rovers as a means of exploring our solar system.
+He would very much like to take doctorate courses on these new
+planetary machines.
+
+If you would like to contact Jordi:
+
+E-mail: i...@nexus.nsi.es (Always, I hope!)
+di4...@ebccuab1.bitnet (Expires in September of 1990)
+Regular mail: See the ASTER address above.
+THE COSMIC DISTANCE SCALE
+
+by Eric Greene
+
+The history of astronomy is the history of humanity's discovery
+of the scale of the Universe. The astronomers of ancient Greece made
+the first scientific attempts at determining the size of our planet
+Earth and the Universe within which we exist. It was far easier for
+the Greeks to measure Earth accurately than the entire Universe. This
+is not surprising: Over two thousand years later we are still coming
+to grips with understanding a cosmos that is far vaster than the human
+mind can even begin to comprehend.
+
+Before discussing the cosmic distance scale as we understand
+it today, it is very important to comprehend the idea of parallax.
+Parallax is essentially the direct trigonometric measurement of
+distance which can easily be demonstrated: Hold your index finger
+up against a distant background and look at it while alternately
+opening and closing each eye. Your finger will appear to move
+against the background due to binocular vision, the different angle
+of vision for each eye. If you measure the distance between your
+eyes and the amount of movement of your finger, it is quite simple
+to calculate the distance to your finger.
+
+Obviously the accuracy of this method is determined by the
+baseline of the measurements. Human eyes are a few centimeters apart.
+This method will work out to a distance of twenty-seven meters
+(thirty yards) or so: You can experiment with this by using objects
+farther away than your finger and distant backgrounds. Objects more
+distant will cause too small a "parallactic displacement" to be
+discernible with the unaided eye. Extending the observational
+baseline by separating the eyes is a difficult and painful propo-
+sition at best. The same effect can be had by using two observers
+making the same measurement on the same object at the same time.
+This method was used by early astronomers to calculate a fair
+approximation of the distance from Earth to the Moon, but the
+unaided eye measurements were not accurate enough to measure
+anything more distant in space.
+
+Early telescopes were very primitive affairs with generally
+unstable mounts and inaccurate micrometers used for quantitative
+measurements. The problem of knowing the distance to the stars
+remained unsolved for over two hundred years after the telescope
+was put into astronomical use.
+
+Since the accuracy of the parallax method depends upon the length
+of the baseline, the question of the longest baseline available became
+very important. It is possible to view a star just after the Sun
+"sets" and, depending on the time of year, see it again just before
+Sun "rise". Earth has rotated 180 degrees during this time, placing
+the observer on the other side of Earth (in reference to an outside
+observer, since the original observer is in the same geographic
+location). The observer is working with a baseline equal to the
+diameter of Earth - about 12,800 kilometers (eight thousand miles).
+Even this baseline is not long enough to detect any parallax in
+the stars.
+
+The same observer can make observations of the same star six
+months apart. During these six months, Earth has moved from one
+side of its orbit around the Sun to the other. Since Earth circles
+the Sun at a distance of approximately 150 million kilometers (93
+million miles), the diameter of the orbit is 298 million kilometers
+(186 million miles). Making observations every six months means
+working with a baseline of 298 million kilometers (186 million miles).
+
+With this technique, the German astronomer Friedrich Wilhelm
+Bessel (1784-1846) was able to detect the first stellar parallax in
+1838. Bessel's subject was the orange (spectral type K) star 61 Cygni
+in the constellation of Cygnus the Swan. The star was seen to move
+slightly against the background of dimmer and more distant stars,
+thus the measurement of this motion could easily be converted into
+kilometers. The distance from Earth to 61 Cygni was calculated by
+Bessel to be over 96 trillion kilometers (sixty trillion miles), or
+about ten light years (the distance has since been refined to 11.2
+light years). Attempts at measuring the distances to other stars
+proved unsuccessful, indicating that these suns must reside at far
+greater distances than 61 Cygni. The Universe was becoming a much
+larger place than ever dreamed of before.
+
+One of the unusual properties of the Universe (from the average
+human standpoint) is that we never see the Universe as it is, but
+only as it was. Light travels at approximately 300,000 kilometers
+each second (186,000 miles each second). Incredibly swift though
+this velocity is, it still takes light a measurable period of time
+to cross astronomical distances. Light requires about eight minutes
+to cross the 150 million kilometers (93 million miles) between the
+Sun and Earth, making our star about eight light minutes from our
+planet. Consequently, we do not see the Sun as it appears in the
+present, but only eight minutes in the past. Similarly, the light
+leaving the Sun at present will not arrive at Earth for yet another
+eight minutes. This relationship between time and distance is one
+of the most fundamental concepts in astronomy. It is impressed upon
+us with one of the most basic and essential units of astronomical
+measurement: The light year. One light year is the distance
+traveled by light in the course of one Earth year - roughly ten
+trillion kilometers (six trillion miles).
+
+It became much more convenient to talk of the distance to 61
+Cygni as 11.2 light years, rather than using trillions of kilometers.
+Yet this star is one of the closest to Earth; when speaking of the
+distances to other galaxies, we need to talk of hundreds of millions
+of trillions of kilometers. Using light years makes things simpler.
+
+Another unit of distance finding increased favor in astronomy
+is the parsec (pc). This measure is defined by parallax. If an
+object is at a distance of one parsec (3.26 light years), then it
+will exhibit a parallactic displacement of one arcsecond over a
+three-month period. At even greater distances, measurement is
+often quoted in megaparsecs. One megaparsec equals 3.26 million
+light years and reflects the average distance between galaxies.
+The most distant galaxies from us are thousands of megaparsecs
+away. The Universe has become ever larger.
+
+Next comes the problems of determining distance once moved far
+out enough that direct measurement of parallax becomes impossible.
+We will discover that distance scales become quite vague beyond this
+distance. One of the astronomer's favorite pastimes is changing the
+distances to the galaxies. The implications to this are interesting,
+since time and distance are so closely linked. If an astronomer
+places the most distant galaxies at ten billion light years and if
+the galaxies were formed shortly after the creation of the Universe,
+then the Universe is somewhat older than ten billion years. If the
+most distant galaxies are placed at twenty billion light years, the
+age of the Universe must also double to allow sufficient time for
+the light from those objects to reach us. The distance scale has a
+profound effect on our concepts concerning the age and formation of
+the Universe.
+
+With continually refined techniques and improved telescopes, it
+is possible to measure parallax out to distances of over one hundred
+light years with fair reliability. Once we reach a distance of three
+hundred light years, the margin for error exceeds the measurement and
+parallax ceases to be a useful means of determining distance. While
+three hundred light years is roughly three quadrillion kilometers
+(1.8 quadrillion miles), this is still right on our doorstep as far
+as celestial distances go. Astronomers desired the means to determine
+the distances to the far reaches of our Milky Way Galaxy and the rest
+of the Universe. A new method of measurement was needed, but no one
+appeared to have an idea on how to approach the problem.
+
+To the casual observer in ancient times, the night time sky was
+a perfect, changeless place. The eternal stars seemed never to alter
+position or brightness. The planets, comets, and other phenomena
+that seemed to change the appearance of the sky were not considered
+to be parts of the celestial sphere; the stars themselves were
+unchanging for all times.
+
+Arabian astronomers during the European Middle Ages were astute
+observers of the sky. They noticed that several stars seemed to
+change brightness. They recorded their amazement at this fact by the
+names given to these stars: Algol, in the constellation of Perseus,
+translates to the Demon and is the basis for our word "ghoul". Mira,
+in the constellation of Cetus the Whale, translates as "wonderful".
+These stars changed brightness over periods of time - a matter of days
+for Algol and months for Mira - and these stars became the first of a
+large group of stars known as variables. Later research showed that
+some variables, such as Algol, were binary stars in which the dimmer
+companion occasionally blocks the light of the brighter star from our
+viewpoint on Earth. Others, such as Mira, varied because of actual
+changes in the intrinsic brightness of the star itself. The first
+type of star is known as an eclipsing binary, while the second type
+is broken into many different categories, such as recurrent nova,
+dwarf nova, Cepheid variable, RR Lyra, and so forth. We shall
+concentrate on the Cepheid variables.
+
+Variable stars are characterized by their light curve. This
+curve is a simple graph of the star's brightness on a time scale
+showing the period of brightness change of the star. Cepheid
+variables have a characteristic light curve with a fast rise to
+maximum brightness, followed by a slow decline to minimum magnitude.
+
+In 1912, the American astronomer Henrietta Leavitt was studying
+Cepheid variables in the Small Magellanic Cloud (a companion galaxy
+to the Milky Way visible from the Southern Hemisphere). Astronomers
+generally prefer to observe objects in clusters and nearby galaxies,
+since they can consider all the objects they view as being at the same
+distance - just as someone in New York City would consider all the
+people living in London to be the same distance away. Any brightness
+differences are assumed to be real intrinsic differences, rather than
+differences caused by distance alone. Leavitt noticed a correlation
+between the brightness of a Cepheid variable and its period. Her
+observations were later formulated into the famous Cepheid Period-
+Luminosity Law by Harlow Shapley in 1917.
+
+The law states there is a direct relationship between the period
+of a Cepheid and its absolute (internal) brightness. Since Cepheid
+variables are fairly common stars, there are several within the three
+hundred light year range of direct distance measurement. It therefore
+became possible to work out their absolute magnitudes. Once these
+were determined, the Cepheids became a tape measure for finding vast
+distances quite easily. Measure the light curve of the variable and
+a simple table tells what its absolute magnitude is. Once you know
+how bright it actually is, the difference between perceived brightness
+(dimmed by distance) and actual brightness tells the distance.
+
+Since Cepheids are among the more luminous stars, this ruler
+became useful for measuring the distances of the galaxies that can
+be resolved into individual stars in large telescopes. In the 1940s,
+Walter Baade was able to make out Cepheids in the Andromeda Galaxy
+and determined that this galaxy was at a distance of 2.1 million
+light years - our next door neighbor, as far as galaxies go. New
+telescopes and observing techniques allow observing Cepheids out to
+distances past twenty million light years. Beyond this distance,
+even the greatest telescopes are unable to resolve individual stars,
+requiring other techniques for intergalactic distance measurement.
+These techniques, reaching beyond the nearby galaxies out to the
+edges of the Universe, will form a later article.
+
+Recommended reading:
+
+Dickinson, Terence, THE UNIVERSE...AND BEYOND, Camden House
+Publishing, Ltd., Camden East, Ontario, Canada, 1986
+
+Ferris, Timothy, COMING OF AGE IN THE MILKY WAY, William
+Morrow and Co., Inc., New York, 1988
+
+Hartmann, William K., and Ron Miller, CYCLES OF FIRE,
+Workman Publishing, New York, 1987
+
+McAleer, Neil, THE MIND-BOGGLING UNIVERSE, Doubleday & Co.,
+Inc., Garden City, New York, 1987
+
+Moore, Patrick, ASTRONOMERS' STARS, W. W. Norton & Company,
+New York, 1989
+
+Whitney, Charles A., THE DISCOVERY OF OUR GALAXY, Alfred A.
+Knopf, Inc., New York, 1971
+
+About the Author -
+
+Eric Greene, ASA Observing Coordinator, is an active and avid
+amateur with a talent for astronomical education and an interest in
+presenting astronomy comprehensively to all levels of interest in
+the field.
+
+
+MILTON UPDEGRAFF, ASTRONOMER
+
+by Darwin Christy, Buffalo Astronomical Association
+
+Milton Updegraff, a little-known American astronomer, was born
+on February 20, 1861, in Decorah, Iowa. After graduating from the
+University of Wisconsin in 1884, Updegraff was employed as an aid
+on the United States Coast and Geodetic Survey until 1887. He became
+an Astronomo Segundo (assistant) Observatorio Nacional in Cordoba,
+Argentina, from 1887 to 1890.
+
+Updegraff taught astronomy at the University of Missouri from 1890
+to 1899, after which he was selected for the position of Professor of
+Mathematics for the United States Navy (USN). Updegraff subsequently
+became an astronomer in the U.S. Naval Observatory until 1902. While
+there, he was placed in charge of the U.S. Naval Observatory's May
+1900 Eclipse Party at Barnesville and Griffin in Georgia. In 1902,
+Updegraff accepted the appointment as Instructor in the U.S. Naval
+Academy, which he held until 1907.
+
+Being an experienced astronomer, Updegraff was designated as
+director of the Nautical Almanac in Washington from 1907 to 1910.
+During the last two years of his time as director, Updegraff was
+also assigned to the fifteen-centimeter (six-inch) transit circle
+of the Naval Academy. A transit circle is a special telescope that
+only moves north-south, fixed in hour-angle (that is, it sweeps the
+meridian). When a star passes through its crosshairs, a timing
+measure can measure the star's right ascension very accurately.
+Also, by examining stars of known right ascension, the local time
+can be ascertained very accurately. This method was used to keep
+inaccurate clocks properly set until atomic clocks were developed.
+Now it is used to measure Earth's variation in its rate of rotation.
+
+From 1913 to 1915, Updegraff headed the geodetic and other
+scientific work in the American Survey of Samoa. From 1915 to 1917,
+he was stationed at the Mare Island Navy Yard, at the north end of
+San Francisco Bay, California, and was also a meteorological observer
+in Arizona, retiring in July of 1920 with the rank of Commander. He
+was elector of the New York University Hall of Fame in 1925, 1930,
+and 1935, and also served as a Fellow of the American Association
+for the Advancement of Science (AAAS).
+
+It is difficult to find biographical material on Updegraff, as his
+contributions to astronomy were relatively minimal. Updegraff did,
+however, hold a number of significant positions as an astronomer and
+teacher of astronomy and mathematics, and wrote several articles on
+professional subjects. Living at his home in Prescott, Arizona in his
+later years, Updegraff passed away on September 12, 1938, at the age
+of seventy-seven years.
+
+From the Editor: No known history has been written describing
+the May 1900 Eclipse Party conducted in Georgia by the United States
+Naval Observatory and Milton Updegraff. A worthwhile research pro-
+ject for any interested readers would be to request records from the
+Naval Observatory pertaining to Professor Updegraff and the Georgia
+Expedition, in order to prepare a report on this virtually unknown
+and important event in Georgia's past. In 1900, the science and
+engineering of photography, solar physics, and portable observing
+instrumentation were in rapid development. An account of the eclipse,
+therefore, would encapsulate the state of a large part of astronomy
+at that time. If interested, please contact the Astronomical Society
+of the Atlantic at one of the addresses listed in the ASA Membership
+section of this issue. We can then direct you to some information
+sources at the Naval Observatory as a starting point.
+
+About the Author -
+
+Darwin Christy is Newsletter Editor of the "Spectrum, the newsletter
+of the Buffalo Astronomical Association in Buffalo, New York and an
+active amateur astronomer with an interest in the history of astronomy.
+THE ELECTRONIC JOURNAL OF THE ASTRONOMICAL SOCIETY OF THE ATLANTIC
+
+April 1990 - Vol. 1, No. 9
+
+Copyright (c) 1990 - ASA
+
+
+--
+Donald J. Barry (404) 651-2932 | don%ch...@gatech.edu
+Center for High Angular Resolution Astronomy | President, Astronomical
+Georgia State University, Atlanta, GA 30303 | Society of the Atlantic
+

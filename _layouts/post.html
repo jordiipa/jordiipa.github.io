@@ -4,7 +4,7 @@ layout: default
 
 <div class="content">
 
-    <p>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
+    <p>Publicat: {{ page.date | date: "%-d %b %Y" }} per en {{ page.author }}</p>
 
     {% if page.series %}
         {% include series.html %}

@@ -1,0 +1,10 @@
+- name: Inici
+  link: /
+- name: Projectes
+  link: /projectes/  
+- name: Publicacions
+  link: /escrits/publicacions/ 
+- name: Blog
+  link: /blog/
+- name: Privacy Policy
+  link: /privacy-policy/

@@ -1,0 +1,14 @@
+I"�<p>Altres cops hem parlat del programari de segrest (ransomware). És un programari maliciós que infecta un ordinador o xarxa i xifra els fitxers per a desprès demanar un rescat per a donar la clau de desxifrat i, sovint, per a no fer públiques les dades que també han copiat.
+<!--more--></p>
+
+<p>Atacs com el que fa unes setmanes va patir la Universitat Autònoma de Barcelona, o han patit empreses, hospitals o el SEPE, el servei d’ocupació del govern espanyol.</p>
+
+<p>Són atacs devastadors que paralitzen als afectats durant setmanes.</p>
+
+<p>Recentment, en una operació combinada de 8 països, van detenir a 12 persones. Els acusen d’haver fet un mínim de 1800 atacs d’aquest caire arreu del món. Només un sol grup. El seu objectiu eren sobretot grans empreses que podrien pagar més pel les claus de desxifrat abans que invertir temps en revisar sistemes i recuperar dades de les còpies de seguretat. Perquè suposem que tenien còpies no infectades, oi?</p>
+
+<p>El que volia destacar avui és com un nombre tant petit de persones, de la mida d’un comando, pot crear tant disrupció i caos. La complexitat dels sistemes d’informació, junt amb el factor humà, obren escletxes que els malfactors aprofiten. I el mono-cultiu de sistemes operatius i plataformes, ajuda a magnificar els problemes quan es troba un forat de seguretat fins llavors desconegut (zer-day) o no apedaçat amb les darreres actualitzacions.</p>
+
+<p>Europol té un lloc web on explica com procedir i, en alguns casos, obtenir de franc les claus de desxifrat. <a href="https://www.nomoreransom.org">https://www.nomoreransom.org</a>. Evidentment, millor prevenri que curar, però si mai us arriba, doneu-li una ullada.</p>
+
+:ET

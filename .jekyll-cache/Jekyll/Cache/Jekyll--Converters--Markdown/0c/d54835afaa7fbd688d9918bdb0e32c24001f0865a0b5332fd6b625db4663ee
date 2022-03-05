@@ -1,0 +1,41 @@
+I"�<h1 id="quadern-de-treball">Quadern de treball</h1>
+
+<p>Benvinguts al meu quadern de treball. Aquí trobareu un petit recull d’alguns escrits i projectes “de cap de setmana”.</p>
+
+<p>Espai fet <a href="https://pages.github.com">Github Pages</a> amb <a href="https://jekyllrb.com/">Jekyll</a> i el tema <a href="https://rubygems.org/gems/bulma-clean-theme">Bulma clean theme</a>.</p>
+
+<h2 id="per-a-no-oblidar-com-he-fet-aquest-web">Per a no oblidar com he fet aquest web…</h2>
+
+<ol>
+  <li>Instal·lar git i <a href="https://jekyllrb.com/docs/">Jekyll</a> a l’ordinador</li>
+  <li>Obrir compte a Github i configurar Pages <a href="https://pages.github.com/">Github Pages</a></li>
+  <li>Enllaçar git i si cal, <a href="https://linuxhint.com/install-and-use-github-desktop-on-ubuntu/">github-desktop</a>, en local amb el nostre compte a github.com</li>
+  <li>Copiar localment el tema de Jekyll i preparar el bundle.</li>
+  <li>Arrencar servidor local de Jekyll per a que vagi convertint .md en .htlm i veure, en local, resultat de les nostres accions.</li>
+  <li>Editar web localment (fitxers .md i .yml) i revisar en web local.</li>
+  <li>Anar fent push al git/github per a la web pública.</li>
+</ol>
+
+<p>Documentació del tema <a href="/bulma-clean-theme/docs/">Bulma-clean</a>
+<a href="https://www.markdownguide.org/basic-syntax/">Markdown bàsic</a></p>
+
+<h2 id="page-layouts">Page Layouts</h2>
+
+<p>This demo site showcases the available page layout options.</p>
+
+<ul>
+  <li>Sidebar</li>
+  <li>Menubar</li>
+  <li>Tabs</li>
+  <li>Footer</li>
+  <li>Hero</li>
+  <li>Contents</li>
+  <li>Landing Page With Callouts</li>
+  <li>Sponsors Page</li>
+  <li>Image Gallery</li>
+  <li>Recipe Page</li>
+  <li>Blog</li>
+  <li>Post</li>
+</ul>
+
+:ET

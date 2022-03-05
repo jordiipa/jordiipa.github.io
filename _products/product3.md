@@ -1,21 +1,23 @@
 ---
-title: Product 3 Name
-subtitle: Product 3 tagline here
-product_code: ABC125
+title: La vida dels pastors
+subtitle: Salvador Vilarrasa
+description: Digitalització, adaptació i edició dels articles d'en Salvador Vilarrasa a la revista **Scriptorium** sobre la vida dels pastors i la visita la Pla d'Anyella. 
 layout: product
 image: https://via.placeholder.com/640x480
-price: £2.99 + VAT
+price: 0.00€
 features:
-    - label: Great addition to any home
-    - label: Comes in a range of styles
+    - label: Una fita de l'etnografia del Pirineu i el pastoralisme
+      icon: fa-location-arrow
+    - label: Una vista a la complexitat d'una feina que desapareix
       icon: fa-grin-stars
-    - label: Available in multiple sizes
+    - label: Disponible ben aviat.
       icon: fa-fighter-jet
-rating: 3
+rating: 5
 ---
 
-This is the content about the product.
+Digitalització, adaptació i edició dels articles d'en Salvador Vilarrasa a la revista **Scriptorium** sobre la vida dels pastors i la visita la Pla d'Anyella.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+Recull dels articles que en Salvador Vilarrasa, un dels fundadors del museu etnogràfic de Ripoll, va publicar a la revista **Scriptorium** (192x) descrivint la vida dels pastors a través dels mesos de l'any. Inclou com a extra l'article descrivint una breu estada al Pla d'Anyella amb els pastors transhumants (192x).  
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+
+

@@ -1,17 +1,57 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Quadern de treball
+subtitle: Recull d'alguns escrits i projectes
 layout: page
-callouts: home_callouts
+#callouts: home_callouts
 show_sidebar: true
+hero_height: is-small
 ---
 
-# Bulma Clean Theme demo website
+# Quadern de treball
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+Benvinguts al meu quadern de treball. Aquí trobareu un petit recull d'alguns escrits i projectes "de cap de setmana". 
+
+[//]: # (This may be the most platform independent comment)
+[//]: # (![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme))
+[//]: # (![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg))
+[//]: # (![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social))
+
+Espai fet [Github Pages](https://pages.github.com) amb [Jekyll](https://jekyllrb.com/) i el tema [Bulma clean theme](https://rubygems.org/gems/bulma-clean-theme).
 
 
-## Documentation
+[//]: # (Documentació)
+## Per a no oblidar com he fet aquest web...
 
-For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
+1. Instal·lar git i [Jekyll](https://jekyllrb.com/docs/) a l'ordinador
+2. Obrir compte a Github i configurar Pages [Github Pages](https://pages.github.com/)
+3. Enllaçar git i si cal, [github-desktop](https://linuxhint.com/install-and-use-github-desktop-on-ubuntu/), en local amb el nostre compte a github.com  
+4. Copiar localment el tema de Jekyll i preparar el bundle.
+6. Arrencar servidor local de Jekyll per a que vagi convertint .md en .htlm i veure, en local, resultat de les nostres accions.
+7. Editar web localment (fitxers .md i .yml) i revisar en web local.
+8. Anar fent push al git/github per a la web pública.
+
+
+Documentació del tema [Bulma-clean](/bulma-clean-theme/docs/)
+[Markdown bàsic](https://www.markdownguide.org/basic-syntax/)
+
+
+
+## Page Layouts
+
+This demo site showcases the available page layout options. 
+
+* Sidebar
+* Menubar
+* Tabs
+* Footer
+* Hero
+* Contents
+* Landing Page With Callouts
+* Sponsors Page
+* Image Gallery
+* Recipe Page
+* Blog
+* Post
+
+
 

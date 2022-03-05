@@ -1,12 +1,32 @@
-- name: Docs
+- name: Projectes
+  link: /projectes/
+- name: Escrits
+  link: /#
+  dropdown:
+    - name: Altra Ràdio
+      link: /escrits/altraradio/
+    - name: Publicacions
+      link: /escrits/publicacions/ 
+- name: eBooks
+  link: /ebook/      
+- name: Blog
+  link: /#
+  dropdown:
+    - name: Entrades recents
+      link: /blog/
+    - name: Etiquetes
+      link: /tags/
+    - name: Índex d'entrades
+      link: /index-de-posts/  
+- name:       
+  link:  
+- name: Manual de Bulma
   link: /docs/
-- name: Example Pages
+- name: Pàgines d'exemple 
   link: /#
   dropdown:
     - name: Landing Page With Callouts
       link: /landing/
-    - name: Sponsors Page
-      link: /sponsors/
     - name: Image Gallery
       link: /gallery/
     - name: Products
@@ -15,5 +35,4 @@
       link: /example-recipe/
     - name: Showcase
       link: /showcase/
-- name: Blog
-  link: /blog/
+
