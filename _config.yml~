@@ -8,7 +8,7 @@ twitter_username: jordi
 github_username: jordiipa
 description: > 
    Recull d'alguns projectes "de cap de setmana" i escrits.
-baseurl: "/"
+baseurl: "/bulma-clean-theme"
 url: "https://jordiipa.github.io"
 permalink: pretty
 favicon: favicon.png
