@@ -25,11 +25,11 @@ En desenvolupament. Reproduir en 3D les peces dels escacs d'Àger, un dels més 
 
 
 ### Cronogrames
-(2022). No acabo de situar mai le dates històriques amb prou perspectiva de distància entre unes i altres. He fet un petit script que a partir d'un fitxer amb dates i intèrvals de dates a relacionar, crea un fitxer CSV que es pot importar a un full de càlcul i visualitzar fàcilment què va abans de què veure copsar la contemporaneitat de persones i fets. [Github]()
+(2022). No acabo de situar mai le dates històriques amb prou perspectiva de distància entre unes i altres. He fet un petit script que a partir d'un fitxer amb dates i intèrvals de dates a relacionar, crea un fitxer CSV que es pot importar a un full de càlcul i ajuda a visualitzar fàcilment què va abans de què, i copsar la contemporaneitat de persones i fets. [Github]()
 
 
 ### Recorregut de "La 9" entre Normandia i París
-(2021). Em va caure a les mans el llibre escrit pel Capità Dronne, cap de la novena companyia del Regiment de MArxa del Txat, integrat a la Divisió Leclerc. Formada bàsicament per antics soldats republicans i brigadistes internacionals que van lluitar contra Franco, van ser els primers a entrar al París ocupat pels nazis. En vaig recollir el recorregut en un mapa, primer publicat a Twitter seguint els seus moviments dia a dia, i després a [Gmaps]().
+(2021). Em va caure a les mans el llibre escrit pel Capità Dronne, cap de la novena companyia del Regiment de Marxa del Txat, integrat a la Divisió Leclerc. Formada bàsicament per antics soldats republicans i brigadistes internacionals que van lluitar contra Franco, van ser els primers a entrar al París ocupat pels nazis (26 agost 1944). En vaig recollir el recorregut en un mapa, de Normandia a París, primer publicat a Twitter seguint els seus moviments dia a dia, i després a [Gmaps]().
 
 
 ### Astrolabi de Barcelona
@@ -37,11 +37,16 @@ En desenvolupament. Reproduir en 3D les peces dels escacs d'Àger, un dels més 
 
 
 ### Robot EV3-Lego autònom basat en el model de capes de Rodney Brooks
-(2018-). En millora contínua. Acabades les dues primeres capes. Ara a per més complexitat de comportament, comunicació entre robots i ús d'intel·ligència artificial per a detectar objectes de l'entorn.
+(2018-). En millora contínua. Acabades les dues primeres capes. Ara, a per més complexitat de comportament, comunicació entre robots i ús d'intel·ligència artificial per a detectar objectes de l'entorn.
 
 
 ### Rellotge de Sol cilíndric o rellotge de pastor
 (2019). Adaptat al full de càlcul d'OpenOffice un Excel que dibuixa les línies que segueix el gnomon en un rellotge de Sol cilíndric, per exemple sobre un tub de pringles.
+
+
+### El CD de la trobada internauta INET-96
+(2014) L'any 1996, el [capítol català de la Internet Society](https://isoc.cat) va organitzar una gran trobada d'internautes. Va aplegar una bona repreentació de presentacions i projectes. Hi trobareu noms de persones que encara avui estan embolicades en "això d'Internet".  
+Vaig trobar a casa el CD-ROM que aplegava les conferències i presentacions. Afortunadament estava fet en HTML, va ser fàcil convertir els enllaços per a fer-lo accessible en una web. Arqueologia digital. [Aquí el teniu]() però amb els correus electrònics sense el nom d'usuari.
 
 
 ### El Sistema Solar a l'escala de Sant Cugat
