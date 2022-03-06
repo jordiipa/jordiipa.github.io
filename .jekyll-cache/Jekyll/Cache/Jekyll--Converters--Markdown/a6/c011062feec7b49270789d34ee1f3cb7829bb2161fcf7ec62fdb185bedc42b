@@ -1,0 +1,17 @@
+I")	<p>Fa uns pocs dies Europol anunciava que havia desmantellat la xarxa de botnets EMOTET(1).</p>
+
+<p>Inicialment, quan el van detectar vers l’any 2014, EMOTET era un troià (programari maliciós que es cola a l’ordinador) que intentava captar credencials bancàries. La seva distribució es feia a través del correu electrònic quan els usuaris picaven un enllaç que els descarregava el programari maliciós (malware) o obrien un arxiu adjunt que podia executar codi (per exemple les macros del full de càlcul o el processador de textos activades, o el javascript d’una web).</p>
+
+<p>EMOTET va anar evolucionant per a incloure serveis per a desenvolupar accions de correu brossa (spam) i programari maliciós, podent descarregar, connectant-se a “la central”, altres atacs. També va integrar capacitats per a camuflar-se davant els programes de detecció, canviar el seu propi codi cada cop que s’executava (polimorfisme), i passar a comportar-se com un cuc, és a dir, poder passar d’un ordinador a un altre de manera autònoma (per exemple, capturant la llista de contactes i enviant-los un correu electrònic infectat).</p>
+
+<p>Aquestes capacitats li permetien organitzar “botnets”, és a dir, xarxes de centenars de milers d’ordinadors “zombies” que, a partir de les ordres d’un ordinador central, responen amb accions coordinades. Per exemple, per a enviar de cop més correu brossa o programari de xifrat maliciós dels disc durs (ransomware), o per a consultar tots de cop un lloc web i tombar-lo amb un atac de denegació de servei (DDoS). Aquestes xarxes d’ordinadors quintacolumnistes s’oferien en lloguer com “Cybercrime as a Service”, o solucions ciber-criminals clau en mà.</p>
+
+<p>L’impacte econòmic i social, diners perduts, informació sense còpies de seguretat perduda, negocis, hospitals i administracions bloquejades, és altíssim.</p>
+
+<p>Aquesta desarticulació és un bon pas endavant, però no us confieu, altres prendran el relleu per a aprofitar el buit i seguir amenaçant-nos.</p>
+
+<p>Així doncs, com sempre, ull, precaució abans de picar enllaços o baixar fitxers, i bones còpies de seguretat recents i desconnectades de la xarxa.</p>
+
+<p>(1) https://www.europol.europa.eu/newsroom/news/world%E2%80%99s-most-dangerous-malware-emotet-disrupted-through-global-action</p>
+
+:ET

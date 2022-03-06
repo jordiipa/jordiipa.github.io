@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Com fer còpies de seguretat"
+subtitle: "l'Altra Ràdio"
+
+date:   2016-11-13 09:12:55 +0000
+categories: altraradio
+tag: Altra Ràdio
+excerpt_separator: <!--more-->
+---
+
+Un tema que no per ser sabut és poc important: les còpies de seguretat. Més tornant de vacances, amb el mòbil i potser la càmera plenes de fotos, documents baixats, etc
+<!--more-->
+
+* Més que pensar en fer còpies, pensar en com recuperar la informació si es trenca el disc, perdem l'ordinador, telèfon, etc. 
+
+El problema al que ens enforntem no és el de fer les còpies, és el de recuperar la info. Per tant, pensem en com ho farem.
+
+* Els sistemes operatius porten aplis o programes per a fer còpies de seguretat. Millor això que res. Definim què volem salvar, quan, etc i revisem-ho regularment (potser tenim un nou programa/apli que salva en directoris no especificats en l'apli de còpia o ja no volem salvar alguna cosa, o una actualització ha canviat els paràmetres ....
+
+* Fer còpies regularment. 
+En funció de la importància de la informació, la freqüència d'ús i el risc que vulguem prendre. Diàries, setmanals, mensuals com a màxim
+Si ho automatitzem, ens facilitem la feina. 
+
+* Si es pot xifrar la còpia, millor (no oblideu el pwssd de xifrat!.
+
+* Si fem còpies al núvol dels respectius proveïdors, cal que els passwords siguin "bons" (llargs, únics, etc) i protegir amb bons passwords i respostes a preguntes de recuperació accés al iCloud, Drive, etc. 
+
+* Si feu còpies en local (disc xarxa o usb), cal tenir una segona còpia redundant en un altre lloc (núvol o casa un familiar per exemple), per a protegir-nos de robatoris o accidents. 
+
+* Provar de recuperar la còpia de seguretat en algun moment en que no la necessitem urgentment. Per a comprovar que ha funcionat i que no ens manca ni falla res quan arribi l'hora de la veritat.
+
+
