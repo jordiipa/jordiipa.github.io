@@ -1,0 +1,66 @@
+I"�,<h1 id="recull-dalguns-projectes">Recull d’alguns projectes</h1>
+
+<h3 id="digitalització-dels-llibres-pirineu-català">Digitalització dels llibres “Pirineu Català”.</h3>
+<p>(2020-2021) Digitalització dels llibres d’excursions d’en Cèsar August Torras editats el 1902. Adaptació del text al català actual i estructurar-lo en una Wiki. Marcar els itineraris descrits en un Wikiloc. Hi afegeixo comentaris propis de fets relacionats amb els llocs i itineraris quan quan trobo temes interessants.</p>
+
+<p>Vaig començar (primavera-hivern 2020) amb el primer llibre <em>Pirineu Català, Comarca de Camprodon</em> i em vaig anar engrescant amb l’Alta Garrotxa, La Vall de Núria, i el Vallespir, Canigó i Conflent (tardor 2021).</p>
+
+<p>Hi trobareu tots els itineraris i textos directament relacionats amb la Vall de Camprodon i rodalies. No he digitalitzat encara alguns recorreguts que eren més llunyans (eg. baix Llierca o Puigmal). Suposo que ja hi tornaré, en manquen molt pocs.</p>
+
+<p><a href="https://comarcadecamprodon.cat">ComarcaDeCamprodon.cat</a> Contingut en CC BY-NC-SA.</p>
+
+<h3 id="model-3d-dels-escacs-dàger">Model 3D dels escacs d’Àger</h3>
+<p>En desenvolupament. Reproduir en 3D les peces dels escacs d’Àger, un dels més antics que es conèixen (finals segle X o inici del XI). El Museu Diocessà de Lleida n’exposa algunes peces.</p>
+
+<h3 id="cronogrames">Cronogrames</h3>
+<p>(2022). No acabo de situar mai les dates històriques amb prou perspectiva de distància entre unes i altres. He fet un petit script en bash que a partir d’un fitxer amb dates i intèrvals de dates a relacionar, crea un fitxer CSV que es pot importar a un full de càlcul. Ajustant l’amplada de les cel·les, ajuda a visualitzar fàcilment què va abans de què, i copsar la contemporaneitat de persones i fets. Cal millorar-lo amb possibilitat d’escalar, ara mateix és un any per cel·la. <a href="https://github.com/jordiipa/LineaDelTemps">Github</a></p>
+
+<h3 id="recorregut-de-la-9-entre-normandia-i-parís">Recorregut de “La 9” entre Normandia i París</h3>
+<p>(2021). Em va caure a les mans el llibre escrit pel capità Raymond Dronne, cap de la novena companyia del Regiment de Marxa del Txat, integrat a la Divisió Leclerc. Formada bàsicament per antics soldats republicans i brigadistes internacionals que van lluitar contra Franco, van ser els primers a entrar al París ocupat pels nazis (24 agost 1944 al vespre). En vaig recollir el recorregut en un mapa, de Normandia a París, <a href="https://twittter.com/jordiipa/status/1422791996402507779?s=21">primer publicat a Twitter</a>) seguint els seus moviments dia a dia, i després a <a href="https://www.google.com/maps/d/edit?mid=13s5i21hMzjrllRgu-H5S1yzyywU1ZrFX&amp;ll=48.66065975124573%2C-0.5378285221907753&amp;z=8">Gmaps</a> només amb les localitats.</p>
+
+<h3 id="astrolabi-de-barcelona">Astrolabi de Barcelona</h3>
+<p>(2021- ). En desenvolupament. Intent de reproduir l’astrolabi de Barcelona tot aprofitant per a llegir i conèixer sobre la ciència del segle X i el paper clau del monestir de Ripoll.</p>
+
+<h3 id="robot-ev3-lego-autònom-basat-en-el-model-de-capes-de-rodney-brooks">Robot EV3-Lego autònom basat en el model de capes de Rodney Brooks</h3>
+<p>(2018-). En millora contínua. Acabades les dues primeres capes. Ara, a desenvolupar més complexitat de comportament, comunicació entre robots i ús d’intel·ligència artificial per a reconèixer objectes de l’entorn.</p>
+
+<h3 id="rellotge-de-sol-cilíndric-o-rellotge-de-pastor-dels-pirineus">Rellotge de Sol cilíndric o rellotge de pastor dels Pirineus</h3>
+<p>(2019). Adaptar al full de càlcul d’OpenOffice i simplificar un Excel que dibuixa les línies que segueix el gnomon en un rellotge de Sol cilíndric, per exemple sobre un tub de pringles, una llauna de refresc, o un tub de PVC.</p>
+
+<h3 id="el-cd-de-la-trobada-internauta-inet-96">El CD de la trobada internauta INET-96</h3>
+<p>(2014) L’any 1996, el <a href="https://isoc.cat">capítol català de la Internet Society</a> va organitzar una gran trobada d’internautes. Va aplegar una bona repreentació de presentacions i projectes. Hi trobareu noms de persones que encara avui estan embolicades en “això d’Internet”.<br />
+Vaig trobar a casa el CD-ROM que aplegava les conferències i presentacions. Afortunadament estava fet en HTML, va ser fàcil convertir els enllaços per a fer-lo accessible en una web. Arqueologia digital. <a href="">Aquí el teniu</a> però amb els correus electrònics sense el nom d’usuari.</p>
+
+<h3 id="el-sistema-solar-a-lescala-de-sant-cugat">El Sistema Solar a l’escala de Sant Cugat</h3>
+<p>Per a la Setmana de la Ciència que pares i professors organitzaven a l’escola de la canalla, vaig preparar una presentació per a posar, a escala de Sant Cugat, les dimensions del Sistema Solar.</p>
+
+<h3 id="cryptoparty">Cryptoparty</h3>
+<p>(2013-2017). Just abans que E. Snowden fes públic l’espionatge massiu que el govern dels EUA i en particular la NSA feien/fan a ciutadans de tot el món (juny 2013), vam organitzar la primera Cryptoparty a Catalunya. Seguint l’exemple d’un moviment creat a Austràlia poc abans que volia popularitzar el xifrat, la privadesa de les comunicacions, i en general, l’higiene digital. A Twitter: @CryptoPartyBCN i @CryptoPartyCAT (sense activitat des de 2018).</p>
+
+<p>El web no està actualitzat des de l’última sessió que vam fer. <a href="https://cryptoparty.wordpress.com">Cryptoparty.wordpress.com</a></p>
+
+<h3 id="galeria-astronòmica-de-catalunya">Galeria Astronòmica de Catalunya</h3>
+<p>(1999). Amb motiu de la Setmana de la Ciència vaig preparar un conjunt de pàgines web on recollia alguns dels primers observatoris i astrònoms del país i de passada enllaços a alguns observatoris del GEA (a l’època, els de més diàmetre de Catalunya). La web del GEA ja no hi és i el contingut força depassat, però encara en podreu trobar [algunes pàgines a l’Internet Archive] (https://web.archive.org/web/20060205172948/http://www.astrogea.org/ipa/galeria/index.html).</p>
+
+<p>I també una petita plana sobre la <a href="https://web.archive.org/web/20060207163631/http://www.astrogea.org/ipa/galeria/bcnmetro/index.html">mesura del Meridià a Barcelona</a>, i d’aquí el Metre com unita tde mesura. Veureu que algunes de les imatges han estat reutilitzades anys més tard en altres web.</p>
+
+<h3 id="cel-fosc-evitem-la-contaminació-lumínica">Cel Fosc, evitem la contaminació lumínica</h3>
+<p>(1996-2006). Junt amb els amics del GEA, Pere Horts i Josep M. Bosch, i l’ànim i ajuda de tot el grup liderat per en Josep M. Gomez, vaig muntar el web <a href="http://celfosc.org">celfosc.org</a> i organitzar una <a href="https://web.archive.org/web/20010616115204/http://www.astrogea.org/prensa/llei_cl.htm">campanya</a> per a donar a conèixer el problema i les seves (fàcils, però que no es volen acabar d’acceptar) solucions. Amb presència mediàtica i burxant aquí i allà, al final vam conseguir que el Parlament de Catalunya aprovés per unanimitat la <strong>Llei d’ordenació ambiental de la il·luminació exterior per a la protecció del medi nocturn</strong> el maig de 2001. Vam seguir amb la redacció del Reglament que havia de desenvolupar la Llei, val a dir que amb oposició i poques ganes del Conseller de Medi Ambient de l’època. Per manca de temps, ho vaig haver de deixar el 2006, a l’incorporar-me a la Fundació puntCAT, de la que en seria el director (2006-2013). Els companys en continuen magníficament la tasca.</p>
+
+<h3 id="el-grup-de-notícies-news-socculturecatalan">El grup de notícies (news) soc.culture.catalan</h3>
+<p>(1995). Internet pre-web a gran escala. Els grups de notícies (les news) eren un dels serveis més populars disponible en múltiples xarxes pre-Internet. Fòrums a escala planetària en els que parlar de tots els temes, i fins i tot compartir fitxers partint-los i codificant-los en ASCII. En una de les xarxes, BitNet, hi havia ja una llista de notícies <strong>bit.listserv.catalan</strong>, però no n’hi havia cap en la jerarquía principal de grups de notícies. Vam endegar el procés per a constituir un grup en la jerarquía principal de les “news”, el <strong>soc.culture.catalan</strong> (nom en anglès, com tots els altres grups).</p>
+
+<p>Assolida la fita, vam començar a cercar un nou objectiu, i es va començar a parlar de com aconseguir un TLD (top level domain) per a Catalunya. Vam començar a aprendre què era IANA, les llistes ISO, l’assignació de ccTLDs, etc. I vam començar a explorar la possibilitat d’obtenir un domini .ct per a Catalunya. D’aquí en va sortir el grup <em>Pencaires</em> i gent interessada en el tema. En particular n’Amadeu Abril, que s’interessà per què feia IANA, i va participar en el grup de treball que portraria a la creació d’ICANN, i en va ser un dels primer membres del Consell. Més endavant veiè la l’escletxa per a poder demananr el .cat, canviant, com deia ell, el passaport (.ct) pel diccionari (.cat) i poder oferir-lo així a tots els Països Catalans.</p>
+
+<h3 id="sysadmin-del-servidor-del-gea-grup-destudis-astronòmics">Sysadmin del servidor del GEA, Grup d’Estudis Astronòmics</h3>
+<p>(1994-1999). El desembre de 1994, gràcies a la bona voluntat del CESCA, vam poder posar un PC 386 amb Linux Slackware v1 connectat a Internet: Web a <strong>www.gea.cesca.es</strong> i <strong>astro.gea.cesca.es</strong> pel correu.
+I amb això, <a href="http://hemeroteca.lavanguardia.com/preview/1995/06/14/pagina-23/33776669/pdf.html">una de les primeres web del país</a> (PDF) i un instrument que va ajudar al <a href="https://ca.wikipedia.org/wiki/Grup_d%27Estudis_Astron%C3%B2mics">GEA</a> a connectar-se amb centres de recerca amb els que vam col·laborar (Bureau des Longitudes, EHU-UPV, Observatoris de Konkoly i del Pic du Midi, Minor Planet Center, …) i que va portar a descobrir i caracteritzar nous estels variables, asteroides, estudis de les atmosferes de Júpiter i Saturn, i esdevenir co-autors en articles publicats a <em>Icarus</em>, <em>Astronomy &amp; Astrophysics</em>, <em>Nature</em> i fins i tot <em>Science</em>.</p>
+
+<p>El vam desconnctar del CESCA el 1999 i vam passar a llogar un servidor comercial.</p>
+
+<h3 id="el-meu-primer-article-a-internet-1990">El meu primer article a Internet (1990)</h3>
+<p>(1990). En les primeres excursions per Bitnet/newsgroups/Internet a través del Centre de Càlcul de la UAB, explorava temes relacionats amb l’Astronomia i l’Astronàutica, les meves principals aficions de l’època i posible sortida professinal. No recordo ben bé com, però al final, l’Astronomic Journal of the Astronomical Society of the Atlantic (Gerogia, EUA) em va demanar un article sobre l’estat de l’Astronomia amateur a Espanya. Me’l van publicar l’abril de 1990. <a href="https://groups.google.com/g/sci.astro/c/6d7HAZuWhrE/m/nBtUjTwdKfgJ">Amateur Astronomy in Spain</a></p>
+
+<p>Val a dir que, gràcies a aquesta connectivitat, vam poder organitzar un Inter-rail a Finlàndia per a veure l’eclipsi total de Sol del 22 juliol 1990 des de la zona d’Ilomantsi. Ens vam apuntar a la trobada de l’associació finesa d’Astronomia, URSA, i hi vaig presentar com fèiem servir Internet a Aster, agrupació astronòmica de Barcelona (amb email des de 1987, de nexus.nsi.es primer i sicyd.es després) i el GEA, Grup d’Estudis Astronòmics (BBS FidoNet).</p>
+
+:ET

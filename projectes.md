@@ -11,7 +11,7 @@ hero_height: is-small
 
 
 ### Digitalització dels llibres "Pirineu Català".
-(2020-) Digitalització dels llibres d'excursions d'en Cèsar August Torras editats el 1902. Adaptació del text al català actual i estructurar-lo en una Wiki. Marcar els itineraris descrits en un Wikiloc. Hi afegeixo comentaris propis de fets relacionats amb els llocs i itineraris quan quan trobo temes interessants.
+(2020-2021) Digitalització dels llibres d'excursions d'en Cèsar August Torras editats el 1902. Adaptació del text al català actual i estructurar-lo en una Wiki. Marcar els itineraris descrits en un Wikiloc. Hi afegeixo comentaris propis de fets relacionats amb els llocs i itineraris quan quan trobo temes interessants.
 
 Vaig començar (primavera-hivern 2020) amb el primer llibre *Pirineu Català, Comarca de Camprodon* i em vaig anar engrescant amb l'Alta Garrotxa, La Vall de Núria, i el Vallespir, Canigó i Conflent (tardor 2021).
 
@@ -21,15 +21,15 @@ Hi trobareu tots els itineraris i textos directament relacionats amb la Vall de 
 
 
 ### Model 3D dels escacs d'Àger
-En desenvolupament. Reproduir en 3D les peces dels escacs d'Àger, un dels més antics que es conèixen (segle X). 
+En desenvolupament. Reproduir en 3D les peces dels escacs d'Àger, un dels més antics que es conèixen (finals segle X o inici del XI). El Museu Diocessà de Lleida n'exposa algunes peces.
 
 
 ### Cronogrames
-(2022). No acabo de situar mai le dates històriques amb prou perspectiva de distància entre unes i altres. He fet un petit script que a partir d'un fitxer amb dates i intèrvals de dates a relacionar, crea un fitxer CSV que es pot importar a un full de càlcul i ajuda a visualitzar fàcilment què va abans de què, i copsar la contemporaneitat de persones i fets. [Github]()
+(2022). No acabo de situar mai les dates històriques amb prou perspectiva de distància entre unes i altres. He fet un petit script en bash que a partir d'un fitxer amb dates i intèrvals de dates a relacionar, crea un fitxer CSV que es pot importar a un full de càlcul. Ajustant l'amplada de les cel·les, ajuda a visualitzar fàcilment què va abans de què, i copsar la contemporaneitat de persones i fets. Cal millorar-lo amb possibilitat d'escalar, ara mateix és un any per cel·la. [Github](https://github.com/jordiipa/LineaDelTemps)
 
 
 ### Recorregut de "La 9" entre Normandia i París
-(2021). Em va caure a les mans el llibre escrit pel capità Raymond Dronne, cap de la novena companyia del Regiment de Marxa del Txat, integrat a la Divisió Leclerc. Formada bàsicament per antics soldats republicans i brigadistes internacionals que van lluitar contra Franco, van ser els primers a entrar al París ocupat pels nazis (25 agost 1944). En vaig recollir el recorregut en un mapa, de Normandia a París, [primer publicat a Twitter](https://twittter.com/jordiipa/status/1422791996402507779?s=21)) seguint els seus moviments dia a dia, i després a [Gmaps](https://www.google.com/maps/d/edit?mid=13s5i21hMzjrllRgu-H5S1yzyywU1ZrFX&ll=48.66065975124573%2C-0.5378285221907753&z=8) només amb les localitats.
+(2021). Em va caure a les mans el llibre escrit pel capità Raymond Dronne, cap de la novena companyia del Regiment de Marxa del Txat, integrat a la Divisió Leclerc. Formada bàsicament per antics soldats republicans i brigadistes internacionals que van lluitar contra Franco, van ser els primers a entrar al París ocupat pels nazis (24 agost 1944 al vespre). En vaig recollir el recorregut en un mapa, de Normandia a París, [primer publicat a Twitter](https://twittter.com/jordiipa/status/1422791996402507779?s=21)) seguint els seus moviments dia a dia, i després a [Gmaps](https://www.google.com/maps/d/edit?mid=13s5i21hMzjrllRgu-H5S1yzyywU1ZrFX&ll=48.66065975124573%2C-0.5378285221907753&z=8) només amb les localitats.
 
 
 ### Astrolabi de Barcelona
@@ -37,11 +37,11 @@ En desenvolupament. Reproduir en 3D les peces dels escacs d'Àger, un dels més 
 
 
 ### Robot EV3-Lego autònom basat en el model de capes de Rodney Brooks
-(2018-). En millora contínua. Acabades les dues primeres capes. Ara, a per més complexitat de comportament, comunicació entre robots i ús d'intel·ligència artificial per a detectar objectes de l'entorn.
+(2018-). En millora contínua. Acabades les dues primeres capes. Ara, a desenvolupar més complexitat de comportament, comunicació entre robots i ús d'intel·ligència artificial per a reconèixer objectes de l'entorn.
 
 
-### Rellotge de Sol cilíndric o rellotge de pastor
-(2019). Adaptat al full de càlcul d'OpenOffice un Excel que dibuixa les línies que segueix el gnomon en un rellotge de Sol cilíndric, per exemple sobre un tub de *pringles*.
+### Rellotge de Sol cilíndric o rellotge de pastor dels Pirineus
+(2019). Adaptar i simplificar un full de càlcul que dibuixa les línies que segueix el gnomon en un rellotge de Sol cilíndric o dels pastors dels Pirineus. Es pot adaptar a clindres com un tub de pringles, una llauna de refresc, o un tub de PVC. 
 
 
 ### El CD de la trobada internauta INET-96
@@ -57,6 +57,12 @@ Per a la Setmana de la Ciència que pares i professors organitzaven a l'escola d
 (2013-2017). Just abans que E. Snowden fes públic l'espionatge massiu que el govern dels EUA i en particular la NSA feien/fan a ciutadans de tot el món (juny 2013), vam organitzar la primera Cryptoparty a Catalunya. Seguint l'exemple d'un moviment creat a Austràlia poc abans que volia popularitzar el xifrat, la privadesa de les comunicacions, i en general, l'higiene digital. A Twitter: @CryptoPartyBCN i @CryptoPartyCAT (sense activitat des de 2018).
 
 El web no està actualitzat des de l'última sessió que vam fer. [Cryptoparty.wordpress.com](https://cryptoparty.wordpress.com)
+
+
+### Galeria Astronòmica de Catalunya
+(1999). Amb motiu de la Setmana de la Ciència vaig preparar un conjunt de pàgines web on recollia alguns dels primers observatoris i astrònoms del país i de passada enllaços a alguns observatoris del GEA (a l'època, els de més diàmetre de Catalunya). La web del GEA ja no hi és i el contingut força depassat, però encara en podreu trobar [algunes pàgines a l'Internet Archive] (https://web.archive.org/web/20060205172948/http://www.astrogea.org/ipa/galeria/index.html). 
+
+I també una petita plana sobre la [mesura del Meridià a Barcelona](https://web.archive.org/web/20060207163631/http://www.astrogea.org/ipa/galeria/bcnmetro/index.html), i d'aquí el Metre com unita tde mesura. Veureu que algunes de les imatges han estat reutilitzades anys més tard en altres web.
 
 
 ### Cel Fosc, evitem la contaminació lumínica
