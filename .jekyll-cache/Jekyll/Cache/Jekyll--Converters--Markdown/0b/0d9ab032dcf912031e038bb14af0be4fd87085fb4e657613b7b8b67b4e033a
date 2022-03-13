@@ -1,4 +1,4 @@
-I"&(<h1 id="recull-dalguns-projectes">Recull d’alguns projectes</h1>
+I"%(<h1 id="recull-dalguns-projectes">Recull d’alguns projectes</h1>
 
 <h3 id="digitalització-dels-llibres-pirineu-català">Digitalització dels llibres “Pirineu Català”.</h3>
 <p>(2020-) Digitalització dels llibres d’excursions d’en Cèsar August Torras editats el 1902. Adaptació del text al català actual i estructurar-lo en una Wiki. Marcar els itineraris descrits en un Wikiloc. Hi afegeixo comentaris propis de fets relacionats amb els llocs i itineraris quan quan trobo temes interessants.</p>
@@ -16,7 +16,7 @@
 <p>(2022). No acabo de situar mai le dates històriques amb prou perspectiva de distància entre unes i altres. He fet un petit script que a partir d’un fitxer amb dates i intèrvals de dates a relacionar, crea un fitxer CSV que es pot importar a un full de càlcul i ajuda a visualitzar fàcilment què va abans de què, i copsar la contemporaneitat de persones i fets. <a href="">Github</a></p>
 
 <h3 id="recorregut-de-la-9-entre-normandia-i-parís">Recorregut de “La 9” entre Normandia i París</h3>
-<p>(2021). Em va caure a les mans el llibre escrit pel capità Raymond Dronne, cap de la novena companyia del Regiment de Marxa del Txat, integrat a la Divisió Leclerc. Formada bàsicament per antics soldats republicans i brigadistes internacionals que van lluitar contra Franco, van ser els primers a entrar al París ocupat pels nazis (25 agost 1944). En vaig recollir el recorregut en un mapa, de Normandia a París, <a href="https://twittter.com/jordiipa/status/1">primer publicat a Twitter</a> seguint els seus moviments dia a dia, 422791996402507779?s=21) i després a <a href="https://www.google.com/maps/d/edit?mid=13s5i21hMzjrllRgu-H5S1yzyywU1ZrFX&amp;ll=48.66065975124573%2C-0.5378285221907753&amp;z=8">Gmaps</a> només amb les localitats.</p>
+<p>(2021). Em va caure a les mans el llibre escrit pel capità Raymond Dronne, cap de la novena companyia del Regiment de Marxa del Txat, integrat a la Divisió Leclerc. Formada bàsicament per antics soldats republicans i brigadistes internacionals que van lluitar contra Franco, van ser els primers a entrar al París ocupat pels nazis (25 agost 1944). En vaig recollir el recorregut en un mapa, de Normandia a París, <a href="https://twittter.com/jordiipa/status/1422791996402507779?s=21">primer publicat a Twitter</a>) seguint els seus moviments dia a dia, i després a <a href="https://www.google.com/maps/d/edit?mid=13s5i21hMzjrllRgu-H5S1yzyywU1ZrFX&amp;ll=48.66065975124573%2C-0.5378285221907753&amp;z=8">Gmaps</a> només amb les localitats.</p>
 
 <h3 id="astrolabi-de-barcelona">Astrolabi de Barcelona</h3>
 <p>(2021- ). En desenvolupament. Intent de reproduir l’astrolabi de Barcelona tot aprofitant per a llegir i conèixer sobre la ciència del segle X i el paper clau del monestir de Ripoll.</p>

@@ -29,7 +29,7 @@ En desenvolupament. Reproduir en 3D les peces dels escacs d'Àger, un dels més 
 
 
 ### Recorregut de "La 9" entre Normandia i París
-(2021). Em va caure a les mans el llibre escrit pel capità Raymond Dronne, cap de la novena companyia del Regiment de Marxa del Txat, integrat a la Divisió Leclerc. Formada bàsicament per antics soldats republicans i brigadistes internacionals que van lluitar contra Franco, van ser els primers a entrar al París ocupat pels nazis (25 agost 1944). En vaig recollir el recorregut en un mapa, de Normandia a París, [primer publicat a Twitter](https://twittter.com/jordiipa/status/1) seguint els seus moviments dia a dia, 422791996402507779?s=21) i després a [Gmaps](https://www.google.com/maps/d/edit?mid=13s5i21hMzjrllRgu-H5S1yzyywU1ZrFX&ll=48.66065975124573%2C-0.5378285221907753&z=8) només amb les localitats.
+(2021). Em va caure a les mans el llibre escrit pel capità Raymond Dronne, cap de la novena companyia del Regiment de Marxa del Txat, integrat a la Divisió Leclerc. Formada bàsicament per antics soldats republicans i brigadistes internacionals que van lluitar contra Franco, van ser els primers a entrar al París ocupat pels nazis (25 agost 1944). En vaig recollir el recorregut en un mapa, de Normandia a París, [primer publicat a Twitter](https://twittter.com/jordiipa/status/1422791996402507779?s=21)) seguint els seus moviments dia a dia, i després a [Gmaps](https://www.google.com/maps/d/edit?mid=13s5i21hMzjrllRgu-H5S1yzyywU1ZrFX&ll=48.66065975124573%2C-0.5378285221907753&z=8) només amb les localitats.
 
 
 ### Astrolabi de Barcelona
