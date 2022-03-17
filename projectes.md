@@ -50,17 +50,17 @@ Vaig trobar a casa el CD-ROM que aplegava les conferències i presentacions. Afo
 
 
 ### El Sistema Solar a l'escala de Sant Cugat
-(2013). Per a la Setmana de la Ciència que pares i professors organitzavem a l'escola de la canalla, vaig preparar una [presentació (.odt 9Mb)]({% link /assets/fitxers/131023-SistemaSolar-Pins.odp %}) per a posar, a escala de Sant Cugat, les dimensions del Sistema Solar. Projectat sobre el barri on viuen molts dels alumnes, els ajuda a fer-se una idea de les distàncies. 
+(2013). Per a la Setmana de la Ciència que pares i professors organitzavem a l'escola de la canalla, vaig preparar una [presentació (.odp 9Mb)]({% link /assets/fitxers/131023-SistemaSolar-Pins.odp %}) per a posar, a escala de Sant Cugat, les dimensions del Sistema Solar. Projectat sobre el barri on viuen molts dels alumnes, els ajuda a fer-se una idea de les distàncies. 
 
 
 ### Cryptoparty
-(2013-2017). Just abans que E. Snowden fes públic l'espionatge massiu que el govern dels EUA i en particular la NSA feien/fan a ciutadans de tot el món (juny 2013), vam organitzar la primera Cryptoparty a Catalunya. Seguiem l'exemple d'un moviment creat poc abans a Austràlia que volia popularitzar el xifrat, la privadesa de les comunicacions, i en general, la higiene digital. A Twitter: [@CryptoPartyBCN]https://twitter.com/cryptopartybcn) i [@CryptoPartyCAT](https://twitter.com/cryptopartycat) (sense activitat des de 2018).
+(2013-2017). Just abans que E. Snowden fes públic l'espionatge massiu que el govern dels EUA i en particular la NSA feien/fan a ciutadans de tot el món (juny 2013), vam organitzar la primera Cryptoparty a Catalunya. Seguiem l'exemple d'un moviment creat poc abans a Austràlia que volia popularitzar el xifrat, la privadesa de les comunicacions, i en general, la higiene digital. A Twitter: [@CryptoPartyBCN](https://twitter.com/cryptopartybcn) i [@CryptoPartyCAT](https://twitter.com/cryptopartycat) (sense activitat des de 2018).
 
 El web no està actualitzat des de l'última sessió que vam fer. [Cryptoparty.wordpress.com](https://cryptoparty.wordpress.com)
 
 
 ### Galeria Astronòmica de Catalunya
-(1999). Amb motiu de la Setmana de la Ciència vaig preparar un conjunt de pàgines web on recollia alguns dels primers observatoris i astrònoms del país i de passada enllaços a alguns observatoris del GEA (a l'època, els de més diàmetre de Catalunya). La web del GEA ja no hi és i el contingut força depassat, però encara en podreu trobar [algunes pàgines a l'Internet Archive] (https://web.archive.org/web/20060205172948/http://www.astrogea.org/ipa/galeria/index.html). 
+(1999). Amb motiu de la Setmana de la Ciència vaig preparar un conjunt de pàgines web on recollia alguns dels primers observatoris i astrònoms del país i de passada enllaços a alguns observatoris del GEA (a l'època, els de més diàmetre de Catalunya). La web del GEA ja no hi és i el contingut força depassat, però encara en podreu trobar [algunes pàgines a l'Internet Archive](https://web.archive.org/web/20060205172948/http://www.astrogea.org/ipa/galeria/index.html). 
 
 I també una petita plana sobre la [mesura del Meridià a Barcelona](https://web.archive.org/web/20060207163631/http://www.astrogea.org/ipa/galeria/bcnmetro/index.html), i d'aquí el Metre com unitat de mesura. Veureu que algunes imatges han estat reutilitzades anys més tard, i sense citar, en altres web i algun llibre.
 
