@@ -45,12 +45,12 @@ En desenvolupament. Reproduir en 3D les peces dels escacs d'Àger, un dels més 
 
 
 ### El CD de la trobada internauta INET-96
-(2014) L'any 1996, el [capítol català de la Internet Society](https://isoc.cat) va organitzar una gran trobada d'internautes. Va aplegar una bona repreentació de presentacions i projectes. Hi trobareu noms de persones que encara avui estan embolicades en "això d'Internet".  
+(2014). L'any 1996, el [capítol català de la Internet Society](https://isoc.cat) va organitzar una gran trobada d'internautes. Va aplegar una bona repreentació de presentacions i projectes. Hi trobareu noms de persones que encara avui estan embolicades en "això d'Internet".  
 Vaig trobar a casa el CD-ROM que aplegava les conferències i presentacions. Afortunadament estava fet en HTML, va ser fàcil convertir els enllaços per a fer-lo accessible en una web. Arqueologia digital. [Aquí el teniu]() però amb els correus electrònics sense el nom d'usuari.
 
 
 ### El Sistema Solar a l'escala de Sant Cugat
-Per a la Setmana de la Ciència que pares i professors organitzaven a l'escola de la canalla, vaig preparar una presentació per a posar, a escala de Sant Cugat, les dimensions del Sistema Solar.
+(2013). Per a la Setmana de la Ciència que pares i professors organitzavem a l'escola de la canalla, vaig preparar una [presentació (.odt 9Mb)]({% link /assets/fitxers/131023-SistemaSolar-Pins.odp %}) per a posar, a escala de Sant Cugat, les dimensions del Sistema Solar. Projectat sobre el barri on viuen molts alumnes, els ajuda a fer-se una idea de les distàncies. 
 
 
 ### Cryptoparty
