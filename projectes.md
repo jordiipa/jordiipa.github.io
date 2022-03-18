@@ -45,8 +45,8 @@ En desenvolupament. Reproduir en 3D les peces dels escacs d'Àger, un dels més 
 
 
 ### El CD de la trobada internauta INET-96
-(2014). L'any 1996, el [capítol català de la Internet Society](https://isoc.cat) va organitzar una gran trobada d'internautes. Va aplegar una bona repreentació de presentacions i projectes. Hi trobareu noms de persones que encara avui estan embolicades en "això d'Internet".  
-Vaig trobar a casa el CD-ROM que aplegava les conferències i presentacions. Afortunadament estava fet en HTML, va ser fàcil convertir els enllaços per a fer-lo accessible en una web. Arqueologia digital. [Aquí el teniu]() però amb els correus electrònics sense el nom d'usuari.
+(2015). L'any 1996, el [capítol català de la Internet Society](https://isoc.cat) va organitzar una gran trobada d'internautes. Va aplegar una bona repreentació de presentacions i projectes. Hi trobareu noms de persones que encara avui estan embolicades en "això d'Internet".  
+Vaig trobar a casa el CD-ROM que aplegava les conferències i presentacions. Afortunadament estava fet en HTML, va ser fàcil convertir els enllaços per a fer-lo accessible en una web per a recordar el 20è aniversari de l'esdeveniment. Arqueologia digital. [Aquí el teniu](https://www.iparraguirre.net/INET96/) però amb els correus electrònics modificats per a evitar spam.
 
 
 ### El Sistema Solar a l'escala de Sant Cugat
