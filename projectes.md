@@ -37,7 +37,7 @@ En desenvolupament. Reproduir en 3D les peces dels escacs d'Àger, un dels més 
 
 
 ### Robot EV3-Lego autònom basat en el model de capes de Rodney Brooks
-(2018-). En millora contínua. Acabades les dues primeres capes. Ara, a desenvolupar més complexitat de comportament, comunicació entre robots i ús d'intel·ligència artificial per a reconèixer objectes de l'entorn. [Pàgina dedicada]({{ site.baseurl }}/robot/)
+(2018-). En millora contínua. Acabades les dues primeres capes. Ara, a desenvolupar més complexitat de comportament, comunicació entre robots i ús d'intel·ligència artificial per a reconèixer objectes de l'entorn. [Pàgina dedicada]({% link robot.md %})
 
 
 ### Rellotge de Sol cilíndric o rellotge de pastor dels Pirineus

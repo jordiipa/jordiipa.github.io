@@ -1,7 +1,7 @@
-I"')<h1 id="recull-dalguns-projectes">Recull d’alguns projectes</h1>
+I"s.<h1 id="recull-dalguns-projectes">Recull d’alguns projectes</h1>
 
 <h3 id="digitalització-dels-llibres-pirineu-català">Digitalització dels llibres “Pirineu Català”.</h3>
-<p>(2020-) Digitalització dels llibres d’excursions d’en Cèsar August Torras editats el 1902. Adaptació del text al català actual i estructurar-lo en una Wiki. Marcar els itineraris descrits en un Wikiloc. Hi afegeixo comentaris propis de fets relacionats amb els llocs i itineraris quan quan trobo temes interessants.</p>
+<p>(2020-2021) Digitalització dels llibres d’excursions d’en Cèsar August Torras editats el 1902. Adaptació del text al català actual i estructurar-lo en una Wiki. Marcar els itineraris descrits en un Wikiloc. Hi afegeixo comentaris propis de fets relacionats amb els llocs i itineraris quan quan trobo temes interessants.</p>
 
 <p>Vaig començar (primavera-hivern 2020) amb el primer llibre <em>Pirineu Català, Comarca de Camprodon</em> i em vaig anar engrescant amb l’Alta Garrotxa, La Vall de Núria, i el Vallespir, Canigó i Conflent (tardor 2021).</p>
 
@@ -13,7 +13,7 @@
 <p>En desenvolupament. Reproduir en 3D les peces dels escacs d’Àger, un dels més antics que es conèixen (finals segle X o inici del XI). El Museu Diocessà de Lleida n’exposa algunes peces.</p>
 
 <h3 id="cronogrames">Cronogrames</h3>
-<p>(2022). No acabo de situar mai le dates històriques amb prou perspectiva de distància entre unes i altres. He fet un petit script que a partir d’un fitxer amb dates i intèrvals de dates a relacionar, crea un fitxer CSV que es pot importar a un full de càlcul. Ajustant l’amplada de les cel·les, ajuda a visualitzar fàcilment què va abans de què, i copsar la contemporaneitat de persones i fets. Cal millorar-lo amb possibilitat d’escalar, ara mateix és un any per cel·la. <a href="https://github.com/jordiipa/LineaDelTemps">Github</a></p>
+<p>(2022). No acabo de situar mai les dates històriques amb prou perspectiva de distància entre unes i altres. He fet un petit script en bash que a partir d’un fitxer amb dates i intèrvals de dates a relacionar, crea un fitxer CSV que es pot importar a un full de càlcul. Ajustant l’amplada de les cel·les, ajuda a visualitzar fàcilment què va abans de què, i copsar la contemporaneitat de persones i fets. Cal millorar-lo amb possibilitat d’escalar, ara mateix és un any per cel·la. <a href="https://github.com/jordiipa/LineaDelTemps">Github</a></p>
 
 <h3 id="recorregut-de-la-9-entre-normandia-i-parís">Recorregut de “La 9” entre Normandia i París</h3>
 <p>(2021). Em va caure a les mans el llibre escrit pel capità Raymond Dronne, cap de la novena companyia del Regiment de Marxa del Txat, integrat a la Divisió Leclerc. Formada bàsicament per antics soldats republicans i brigadistes internacionals que van lluitar contra Franco, van ser els primers a entrar al París ocupat pels nazis (24 agost 1944 al vespre). En vaig recollir el recorregut en un mapa, de Normandia a París, <a href="https://twittter.com/jordiipa/status/1422791996402507779?s=21">primer publicat a Twitter</a>) seguint els seus moviments dia a dia, i després a <a href="https://www.google.com/maps/d/edit?mid=13s5i21hMzjrllRgu-H5S1yzyywU1ZrFX&amp;ll=48.66065975124573%2C-0.5378285221907753&amp;z=8">Gmaps</a> només amb les localitats.</p>
@@ -22,22 +22,27 @@
 <p>(2021- ). En desenvolupament. Intent de reproduir l’astrolabi de Barcelona tot aprofitant per a llegir i conèixer sobre la ciència del segle X i el paper clau del monestir de Ripoll.</p>
 
 <h3 id="robot-ev3-lego-autònom-basat-en-el-model-de-capes-de-rodney-brooks">Robot EV3-Lego autònom basat en el model de capes de Rodney Brooks</h3>
-<p>(2018-). En millora contínua. Acabades les dues primeres capes. Ara, a desenvolupar més complexitat de comportament, comunicació entre robots i ús d’intel·ligència artificial per a reconèixer objectes de l’entorn.</p>
+<p>(2018-). En millora contínua. Acabades les dues primeres capes. Ara, a desenvolupar més complexitat de comportament, comunicació entre robots i ús d’intel·ligència artificial per a reconèixer objectes de l’entorn. <a href="/robot/">Pàgina dedicada</a></p>
 
-<h3 id="rellotge-de-sol-cilíndric-o-rellotge-de-pastor">Rellotge de Sol cilíndric o rellotge de pastor</h3>
-<p>(2019). Adaptat al full de càlcul d’OpenOffice un Excel que dibuixa les línies que segueix el gnomon en un rellotge de Sol cilíndric, per exemple sobre un tub de <em>pringles</em>.</p>
+<h3 id="rellotge-de-sol-cilíndric-o-rellotge-de-pastor-dels-pirineus">Rellotge de Sol cilíndric o rellotge de pastor dels Pirineus</h3>
+<p>(2019). Adaptar i simplificar un full de càlcul que dibuixa les línies que segueix el gnomon en un rellotge de Sol cilíndric o dels pastors dels Pirineus. Es pot adaptar a clindres com un tub de pringles, una llauna de refresc, o un tub de PVC.</p>
 
 <h3 id="el-cd-de-la-trobada-internauta-inet-96">El CD de la trobada internauta INET-96</h3>
-<p>(2014) L’any 1996, el <a href="https://isoc.cat">capítol català de la Internet Society</a> va organitzar una gran trobada d’internautes. Va aplegar una bona repreentació de presentacions i projectes. Hi trobareu noms de persones que encara avui estan embolicades en “això d’Internet”.<br />
+<p>(2014). L’any 1996, el <a href="https://isoc.cat">capítol català de la Internet Society</a> va organitzar una gran trobada d’internautes. Va aplegar una bona repreentació de presentacions i projectes. Hi trobareu noms de persones que encara avui estan embolicades en “això d’Internet”.<br />
 Vaig trobar a casa el CD-ROM que aplegava les conferències i presentacions. Afortunadament estava fet en HTML, va ser fàcil convertir els enllaços per a fer-lo accessible en una web. Arqueologia digital. <a href="">Aquí el teniu</a> però amb els correus electrònics sense el nom d’usuari.</p>
 
 <h3 id="el-sistema-solar-a-lescala-de-sant-cugat">El Sistema Solar a l’escala de Sant Cugat</h3>
-<p>Per a la Setmana de la Ciència que pares i professors organitzaven a l’escola de la canalla, vaig preparar una presentació per a posar, a escala de Sant Cugat, les dimensions del Sistema Solar.</p>
+<p>(2013). Per a la Setmana de la Ciència que pares i professors organitzavem a l’escola de la canalla, vaig preparar una <a href="/assets/fitxers/131023-SistemaSolar-Pins.odp">presentació (.odp 9Mb)</a> per a posar, a escala de Sant Cugat, les dimensions del Sistema Solar. Projectat sobre el barri on viuen molts dels alumnes, els ajuda a fer-se una idea de les distàncies.</p>
 
 <h3 id="cryptoparty">Cryptoparty</h3>
-<p>(2013-2017). Just abans que E. Snowden fes públic l’espionatge massiu que el govern dels EUA i en particular la NSA feien/fan a ciutadans de tot el món (juny 2013), vam organitzar la primera Cryptoparty a Catalunya. Seguint l’exemple d’un moviment creat a Austràlia poc abans que volia popularitzar el xifrat, la privadesa de les comunicacions, i en general, l’higiene digital. A Twitter: @CryptoPartyBCN i @CryptoPartyCAT (sense activitat des de 2018).</p>
+<p>(2013-2017). Just abans que E. Snowden fes públic l’espionatge massiu que el govern dels EUA i en particular la NSA feien/fan a ciutadans de tot el món (juny 2013), vam organitzar la primera Cryptoparty a Catalunya. Seguiem l’exemple d’un moviment creat poc abans a Austràlia que volia popularitzar el xifrat, la privadesa de les comunicacions, i en general, la higiene digital. A Twitter: <a href="https://twitter.com/cryptopartybcn">@CryptoPartyBCN</a> i <a href="https://twitter.com/cryptopartycat">@CryptoPartyCAT</a> (sense activitat des de 2018).</p>
 
-<p>El web no està actualitzat des de l’última sessió que vam fer. <a href="https://cryptoparty.wordpress.com">Cryptoparty.wordpress.com</a></p>
+<p>El web no està actualitzat des de l’última sessió que vam fer. <a href="https://cryptopartycat.wordpress.com">CryptoPartyCat.wordpress.com</a></p>
+
+<h3 id="galeria-astronòmica-de-catalunya">Galeria Astronòmica de Catalunya</h3>
+<p>(1999). Amb motiu de la Setmana de la Ciència vaig preparar un conjunt de pàgines web on recollia alguns dels primers observatoris i astrònoms del país i de passada enllaços a alguns observatoris del GEA (a l’època, els de més diàmetre de Catalunya). La web del GEA ja no hi és i el contingut força depassat, però encara en podreu trobar <a href="https://web.archive.org/web/20060205172948/http://www.astrogea.org/ipa/galeria/index.html">algunes pàgines a l’Internet Archive</a>.</p>
+
+<p>I també una petita plana sobre la <a href="https://web.archive.org/web/20060207163631/http://www.astrogea.org/ipa/galeria/bcnmetro/index.html">mesura del Meridià a Barcelona</a>, i d’aquí el Metre com unitat de mesura. Veureu que algunes imatges han estat reutilitzades anys més tard, i sense citar, en altres web i algun llibre.</p>
 
 <h3 id="cel-fosc-evitem-la-contaminació-lumínica">Cel Fosc, evitem la contaminació lumínica</h3>
 <p>(1996-2006). Junt amb els amics del GEA, Pere Horts i Josep M. Bosch, i l’ànim i ajuda de tot el grup liderat per en Josep M. Gomez, vaig muntar el web <a href="http://celfosc.org">celfosc.org</a> i organitzar una <a href="https://web.archive.org/web/20010616115204/http://www.astrogea.org/prensa/llei_cl.htm">campanya</a> per a donar a conèixer el problema i les seves (fàcils, però que no es volen acabar d’acceptar) solucions. Amb presència mediàtica i burxant aquí i allà, al final vam conseguir que el Parlament de Catalunya aprovés per unanimitat la <strong>Llei d’ordenació ambiental de la il·luminació exterior per a la protecció del medi nocturn</strong> el maig de 2001. Vam seguir amb la redacció del Reglament que havia de desenvolupar la Llei, val a dir que amb oposició i poques ganes del Conseller de Medi Ambient de l’època. Per manca de temps, ho vaig haver de deixar el 2006, a l’incorporar-me a la Fundació puntCAT, de la que en seria el director (2006-2013). Els companys en continuen magníficament la tasca.</p>
