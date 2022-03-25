@@ -36,12 +36,12 @@ En desenvolupament. Reproduir en 3D les peces dels escacs d'Àger, un dels més 
 (2021- ). En desenvolupament. Intent de reproduir l'astrolabi de Barcelona tot aprofitant per a llegir i conèixer sobre la ciència del segle X i el paper clau del monestir de Ripoll.
 
 
-### Robot EV3-Lego autònom basat en el model de capes de Rodney Brooks
+### Robot Lego-EV3 autònom basat en el model de capes de Rodney Brooks
 (2018-). En millora contínua. Acabades les dues primeres capes. Ara, a desenvolupar més complexitat de comportament, comunicació entre robots i ús d'intel·ligència artificial per a reconèixer objectes de l'entorn. [Pàgina dedicada]({% link robot.md %})
 
 
 ### Rellotge de Sol cilíndric o rellotge de pastor dels Pirineus
-(2019). Adaptar i simplificar un full de càlcul que dibuixa les línies que segueix el gnomon en un rellotge de Sol cilíndric o dels pastors dels Pirineus. Es pot adaptar a clindres com un tub de pringles, una llauna de refresc, o un tub de PVC. 
+(2019). Adaptar i simplificar un full de càlcul de *Instructables* que dibuixa les línies que segueix el gnomon en un rellotge de Sol cilíndric o dels pastors dels Pirineus. Es pot adaptar a clindres com un tub de pringles, una llauna de refresc, o un tub de PVC. 
 
 
 ### El CD de la trobada internauta INET-96

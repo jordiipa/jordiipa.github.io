@@ -1,0 +1,23 @@
+I"�<h1 id="recull-de-lectures-i-idees">Recull de lectures i idees</h1>
+
+<p>Inicialment el robot s’havia de moure com si fos en un tauler d’escacs; dividint la superfície en quadrats de 15cm d’aresta i, controlant-ne els desplaçaments, saber en tot moment on es trobava. Els errors acumulats en la mesura de les distàncies reals recorregudes em van fer canviar d’estratègia. Vaig trobar el model de capes d’en Brooks, i em va semblar un model molt més interessant i proper a un ésser viu.</p>
+
+<p>Per a més flexibilitat, no el programo en el llenguatge de LEGO. Faig servir <a href="https://www.ev3dev.org/docs/getting-started/">ex3dev</a>.</p>
+
+<h3 id="articles">Articles</h3>
+
+<ul>
+  <li>
+    <p>BROOKS. <a href="https://dspace.mit.edu/handle/1721.1/6432">“A robust layered control system for a mobile robot”</a>. IEEE journal of robotics and Automation; vol RA-2 no. 1; March 1986</p>
+  </li>
+  <li>
+    <p>LANGTON. (editor). <a href="https://mitpress.mit.edu/books/artificial-life">“Artificial life, an overview”</a>. (recull d’articles). MIT Press. 1997.</p>
+  </li>
+</ul>
+
+<h3 id="vídeos">Vídeos</h3>
+
+<h3 id="codi">Codi</h3>
+<p>Al GitHub quan el pugi.</p>
+
+:ET
