@@ -8,7 +8,7 @@ hero_height: is-small
 
 # Recull de lectures i idees 
 
-Inicialment el robot s'havia de moure com si fos en un tauler d'escacs; dividint la superfície en quadrats de 15cm d'aresta i, controlant-ne els desplaçaments, saber en tot moment on es trobava. Els errors acumulats en la mesura de les distàncies reals recorregudes em van fer canviar d'estratègia. Vaig trobar el model de capes d'en Brooks, i em va semblar un model molt més interessant i proper a un ésser viu. I un primer pas cap a sistemes emergents i de "vida artificial".
+Inicialment el robot s'havia de moure com si fos en un tauler d'escacs; dividint la superfície en quadrats de 15cm d'aresta i, controlant-ne els desplaçaments, saber en tot moment on es trobava. Els errors acumulats en la mesura de les distàncies reals recorregudes em van fer canviar d'estratègia. Vaig trobar el model de capes d'en Brooks, i em va semblar un model molt més interessant i proper a un ésser viu. I un primer pas cap a sistemes emergents i de "vida artificial" (Alife).
 
 Per a més flexibilitat, no el programo en el llenguatge de LEGO. Faig servir [ex3dev](https://www.ev3dev.org/docs/getting-started/).
 

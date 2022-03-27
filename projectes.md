@@ -41,7 +41,7 @@ En desenvolupament. Reproduir en 3D les peces dels escacs d'Àger, un dels més 
 
 
 ### Rellotge de Sol cilíndric o rellotge de pastor dels Pirineus
-(2019). Adaptar i simplificar un full de càlcul de *Instructables* que dibuixa les línies que segueix el gnomon en un rellotge de Sol cilíndric o dels pastors dels Pirineus. Es pot adaptar a clindres com un tub de pringles, una llauna de refresc, o un tub de PVC. 
+(2019). Adaptar a un full de càlcul un projecte de *Instructables* que dibuixa les línies que segueix el gnomon en un rellotge de Sol cilíndric o dels pastors dels Pirineus. Es pot adaptar a clindres com un tub de pringles, una llauna de refresc, o un tub de PVC. [Aquí el ful de càlcul ,ods]({% link /assets/fitxers/Rellotge-de-pastor-v3.ods %})
 
 
 ### El CD de la trobada internauta INET-96

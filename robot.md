@@ -20,8 +20,9 @@ Per a més flexibilitat, no el programo en el llenguatge de LEGO. Faig servir [e
 * LANGTON. (editor). ["Artificial life, an overview"](https://mitpress.mit.edu/books/artificial-life). (recull d'articles). MIT Press. 1997.
 
 
-### Vídeos
+### Infraestructura
 
+Ho programo en una Raspi i pujo els scripts al robot via scp. La idea de la Raspi és que esdevingui el centre de càlcul més potent i remot del robot, amb el que es comunica via WiFi. Per exemple, el robot pot captar una imatge, l'envia a la Raspi, que la processa amb OpenCV i torna un resultat per a modificar el comportament del robot.
 
 
 ### Codi
