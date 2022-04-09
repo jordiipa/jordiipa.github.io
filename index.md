@@ -11,12 +11,10 @@ hero_height: is-small
 
 Benvinguts al meu quadern de treball. Aquí trobareu un petit recull d'alguns escrits i projectes "de cap de setmana". 
 
-[//]: # (This may be the most platform independent comment)
-[//]: # (![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme))
-[//]: # (![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg))
-[//]: # (![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social))
+
 
 Espai fet [Github Pages](https://pages.github.com) amb [Jekyll](https://jekyllrb.com/) i el tema [Bulma clean theme](https://rubygems.org/gems/bulma-clean-theme).
+
 
 
 [//]: # (Documentació)
@@ -35,23 +33,6 @@ Documentació del tema [Bulma-clean](/bulma-clean-theme/docs/)
 [Markdown bàsic](https://www.markdownguide.org/basic-syntax/)
 
 
-
-## Page Layouts
-
-This demo site showcases the available page layout options. 
-
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
 
 
 
